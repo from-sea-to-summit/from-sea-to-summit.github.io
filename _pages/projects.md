@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: The From Sea to Summit project focusses on two sites.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [fieldsite]
 horizontal: false
 ---
 

@@ -18,3 +18,9 @@ A group of three scientists from Neuchâtel took to the field in early February 
 We dug out a first snow pit on the Tsanfleuron area, at an altitude of 2480 m. This allowed us to characterise a nearly two-metre long temperature, density and stable isotope profile. © Tanguy Racine
 </div>
 
+
+> Working in high alpine conditions demands caution! 
+> Basic avalanche safety training is necessary.
+{: .block-tip }
+
+

@@ -3,6 +3,7 @@ layout: post
 title: "First sampling of snow cover"
 date: 2025-02-12 12:00:00 -0000
 categories: news fieldwork
+tags: glacier snow
 ---
 
 

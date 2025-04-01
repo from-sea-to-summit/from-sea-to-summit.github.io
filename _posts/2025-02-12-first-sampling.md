@@ -12,7 +12,7 @@ A group of three scientists from Neuchâtel took to the field in early February 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/field/snow_sampling.jpg" title="Sampling a snow pit" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/field/20250212/snow_sampling.jpg" title="Sampling a snow pit" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

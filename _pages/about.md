@@ -26,11 +26,23 @@ The “From Sea to Summit” project is studying two areas that face these combi
 To tackle these issues, researchers from the University of Split and the University of Neuchâtel are combining their expertise. Their goals are to 1) monitor these water systems to understand how they work, 2) build computer models to predict how climate change will affect these areas, 3) develop strategies to protect and manage water resources and 4) share their methods and findings to help solve similar problems in other parts of the world.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/logos/both_logos.png" title="SNSF logo" class="img-fluid" %}
-    </div>
 
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logos/SNSF_logo.png" title="SNSF logo" class="img-fluid" %}
+    </div>
+<div class="col-sm">
 </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logos/OFFICIAL_darksea_darktext.png" title="SeaToSummit logo" class="img-fluid" %}
+    </div>
+<div class="col-sm">
+</div>
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logos/hrzz_logo_en.png" title="HRZZ logo" class="img-fluid" %}
+    </div>
+</div>
+
 <div class="caption">
     This work is financed by grant 10.003.377 from the Swiss and Croatian National Science Foundations
 

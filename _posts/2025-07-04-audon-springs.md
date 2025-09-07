@@ -18,7 +18,7 @@ To begin the characterisation of the site, the team carried out a LiDAR survey o
         {% include figure.liquid loading="eager" path="assets/img/field/20250704/audon-valley-tanguy-racine.jpg" title="Audon valley" class="img-fluid rounded z-depth-1" %}
     </div>
         <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/field/20250704/audon-pointcloud.jpg" title="Outcrop point cloud" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/field/20250704/audon-pointcloud.png" title="Outcrop point cloud" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

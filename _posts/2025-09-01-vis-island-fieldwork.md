@@ -64,7 +64,7 @@ The team met with  Stipe Vokjović (director) and Boris Ivanišević (technical 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/field/20250903/TRA_5047-descent-Komiza-low.jpg" title="Komiža" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/field/20250903/TRA_5047-descent-komiza-low.jpg" title="Komiža" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/field/20250903/TRA_4996-transfer-blue-cave-low.jpg" title="Transfer to Blue Cave" class="img-fluid rounded z-depth-1" %}

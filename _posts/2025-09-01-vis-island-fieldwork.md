@@ -62,8 +62,6 @@ The next day, the team travelled to the town of Komiža, nestled snugly in the w
 The team met with  Stipe Vokjović (director) and Boris Ivanišević (technical director) of the water utility company Nautički Centar Komiža, at a café in the centre of town. Later, a transfer to the nearby Biševo island was arranged by the Nautički Centar Komiža. The objective was a visit to one of the main touristic attractions of the Vis archipelago, namely _Blue Cave_. This sea cave is a show accessible by boat and tours are operated by [Visitor Centre Modra špilja – Biševo](https://bluecave-Biševo.com/).  Due to the cave's small entrance, motorboats must rush into the cave by surfing the swell and may only then switch off the engine. The skipper then uses a paddle to move around the cave. The engine must be restarted inside the cave before the exit. The cave is accessible for tourism at only certain times of the day, due to the tides which can close off the boat entrance. The team was allowed inside twice to take pictures and document possible sites for the installation of a real time CO2 monitoring set-up to allow the amplitude of CO2 spikes in the cave air to be measured and relayed to the cave management for the safety of visitors.
 
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/field/20250903/TRA_5047-descent-Komiza-low.jpg" title="Komiža" class="img-fluid rounded z-depth-1" %}
@@ -71,6 +69,8 @@ The team met with  Stipe Vokjović (director) and Boris Ivanišević (technical 
 <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/field/20250903/TRA_4996-transfer-blue-cave-low.jpg" title="Transfer to Blue Cave" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
         <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/field/20250903/TRA_5023-blue-cave-low.jpg" title="Inside Blue cave" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -83,15 +83,54 @@ A field day around Komiža, Blue Cave (Biševo) and Pizdica spring © Tanguy Rac
 </div>
 
 
-
 ### Island Vis: geological modelling and the geopark 
 
+Ivo organised a meeting with local stakeholders of the Vis Archipelago geopark, namely with Lana Schmidt, its executive director and Nikola Nemec, its resident geologist. Once again, the team met in Komiža for an informal coffee, to present the project objectives, discuss the island's geology in broad strokes, and generally get to know one another. 
 
+Prior to the trip to Vis, Tanguy and Philippe generated a simple geological model of the island, based on the published geological map. They used the GeoModeller software to constrain the main units and their stratigraphic or tectonic relationships. The 3D visualisation of geological units as volumes, and its potential use as didactic tool for the general public was mentioned, with the idea of making it available as a 3D prop in the geopark's museum. 
 
 ### Island Vis: caving and scanning a local cave 
 
+The Sea to Summit project aims to expand the monitoring of recharge dynamics in the upper layers of the karst on Vis island. To this effect, a team composed of Tanguy, Philippe, Domitille, Ivo and Nikola met up with local speleologist Slaven Cvjetković – Head of Section for the Vis and Hum caving club. The aim was to visit two easily accessible and shallow caves, in which infiltration rates could be monitored. These first visits included photographic documentation of possible drip sites as well as one detailed LiDAR scan of Tonki Rot cave (locally: *Spilja od Tankega Rota*). Capturing the accurate geometry of cave ceiling relative to the surface and nearby fractures is important for delineating the areas which contribute to the monitoring site. 
+
+The full workflow for processing the point cloud includes:
+
+1. georeferencing using a network of separately surveyed targets
+2. cleaning noisy points from the survey due to operators in the field of view of the scanner
+3. reconstructing a trianguled mesh as a model for the wall surface
+4. producing plan views and sections of the cave for speleogenetic interpretations
+
+To address the first point, Domitille, Philippe and Tanguy measured the network of targets using a DistoX and cave phone setup, while Slaven carried out the dynamic LiDAR scan in 11 separate scenes.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/field/20250904/TRA_5065-surveying-low.jpg" title="Surveying in Tonki Rot cave" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/field/20250904/Ivo-explanation-LIDAR.jpg" title="Using the LiDAR scanner" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Surveying some of the caves of Vis Island © Tanguy Racine & Ivo Andrić
+</div>
+
+### Conclusion
+
+The team left Vis by ferry and returned to Split. The following day, at the airport, Philippe, Tanguy, Ivo and Toni discussed a list of actionable items for the continuation of the project. 
+ 
+1. integration of upcoming project members and potential doctoral student exchanges between Croatia and Switzerland 
+2. analysis of the water samples chemistry
+3. organisation of the next online meeting
+4. processing of LiDAR scan to help design a discharge / drip rate monitoring station at Tonki Rot.
+5. analysis of borehole head timeseries, specifically between boreholes during daily pumping
+5. organisation of the next in-person project meeting in Switzerland
+6. identification of possible exchange and experiments at the SLU in relation with karst projects 
+
+The success of this field trip rested entirely on the excellent logistical support and organisation by Toni and Ivo, in particular with respect to the many new connections with local actors which they helped build during the week. 
 
 ### Outreach
+
+Domitille continued her travels around Dalmatia after Tanguy and Philippe left, and took the ferry from Split to Hvar and back. Rather serendipitously, on the return journey, she was interviewed by regional news and had the opportunity to talk about the week gone by.
 
 >[Domitille Dufour: "Vis residents need to educate tourists better about water consumption..."](https://slobodnadalmacija.hr/split-i-zupanija/otoci/na-trajektu-za-split-sreli-smo-3-posebne-dame-teta-sandru-domitille-i-emeliu-svima-je-zajednicka-jedna-ljubav-1501536)<br>
 >*Written by Stjepan Mijat Zaninović, published 8. September 2025 - 07:35 for Slobodna Dalmacija, translated excerpt below.*<br><br>

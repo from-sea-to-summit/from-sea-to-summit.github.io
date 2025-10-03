@@ -26,7 +26,8 @@ After this impressive visit, the team met in one of the adjacent rooms to discus
         <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/field/20250901/TRA_4922-SLU-recharge-pipes-low.jpg" title="Analog model recharge pipes" class="img-fluid rounded z-depth-1" %}
     </div>
-<div>
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/field/20250901/TRA_4934-SLU-recharge-controls-low.jpg" title="Analog model recharge controls" class="img-fluid rounded z-depth-1" %}

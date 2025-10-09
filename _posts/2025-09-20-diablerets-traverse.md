@@ -6,11 +6,11 @@ categories: news fieldwork
 tags: hydrochemistry discharge monitoring
 ---
 
-Over the course of five days, Tanguy and Helene out a traverse of the Diablerets massif, going from Derborence to Audon, to document possible new tracer test injection points on the glacier. The aim was also to complete the hydrochemistry sampling campaign and continue building the cave stream rating curves. 
+Over the course of five days, Tanguy and Helene carried out a traverse of the Diablerets massif, going from Derborence to Audon, to document possible new tracer test injection points on the glacier. The aim was also to complete the hydrochemistry sampling campaign and continue building the various stream rating curves over the karst catchment. 
 
 ### Karst springs along the Lizerne
 
-The team started the trip by walking to the Tschoetre springs, checked the timelapse camera installed there and downloaded its photos. They also gauged the river discharge by salt dilution. The Tschoetre springs have the highest discharge of all the karst outlets of the Tsanfleuron area. In July, the discharge could only be estimated at around 1 cubic metre per second. This time, the salt gauging yielded a value of about 310 L / s downstream of the confluence between the Lizerne and the Tschoetre springs. Of these, two thirds came from the Tschoetre springs, while about a third came from the Lizerne river. 
+The team started the trip by walking to the Tschoetre springs, checked the timelapse camera installed there and downloaded its photos. They also gauged the river discharge by salt dilution. The Tschoetre springs appear to have the highest discharge of all the karst outlets of the Tsanfleuron area. In July, the discharge could only be estimated at around 1 cubic metre per second. This time, the salt gauging yielded a value of about 310 L / s downstream of the confluence between the Lizerne and the Tschoetre springs. Of these, two thirds came from the Tschoetre springs, while about a third came from the Lizerne river. 
 
 A little further upstream of Tschoetre springs, the Lizerne river meets another karst spring: the Marnes. There, the team could measure the discharge of the springs by differencing, finding about 7 L /s coming from the Mié locality where the Lizerne originates, and 50 L / s coming from the spring. More water samples for stable isotopes, complete alkalinity titration and major ions were taken. 
 
@@ -20,8 +20,6 @@ The team then hiked up through the Poteux du Bois, a technical trail passing thr
 The next day, Tanguy and Helene hiked to the source of the Lachon, at the main Tsanfleuron glacier outlet to measure its discharge. One key observation was that the glacier meltwater sinks into a karst conduit before reaching the pressure gauge installed in August. Only after a certain time of day, when a critical discharge is reached, does the water overflow into the Lachon riverbed. 
 
 The team then measured the discharge at the Sarine spring, at the Plan de la Fontaine, inside the Grotte du Porche and finally back at the glacier outlet before enjoying a late afternoon, chilly swim in one of the many perennial lakes near the hut. 
-
-
 
 
 <div class="row">

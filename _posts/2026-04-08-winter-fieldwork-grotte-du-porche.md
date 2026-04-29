@@ -44,7 +44,7 @@ To this end, two types of automatic samplers were installed both at the Glarey s
         {% include figure.liquid loading="eager" path="assets/img/field/20260408/20260306-Glarey-isco.jpeg" title="Isco sampler in Glarey spring" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/field/20260408/weir-logger-installation-medium.JPG" title="Installation of a weir" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/field/20260408/cave-weir-logger-installation-medium.jpg" title="Installation of a weir" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

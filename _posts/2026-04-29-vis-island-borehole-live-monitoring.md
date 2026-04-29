@@ -9,7 +9,7 @@ tags: hydrochemistry monitoring
 
 
 We are pleased to announce an important milestone of the From Sea to Summit project: from now on, the freshwater lens of Vis Island can be monitored in real time thanks to the successful Swiss–Croatian scientific collaboration.
-The newly established monitoring system is now publicly accessible through the project platform: Real-time data portal – https://vodime-sensor.web.app/sensor/sea2summit
+The newly established monitoring system is now publicly accessible through the project platform: [Real-time data portal](https://vodime-sensor.web.app/sensor/sea2summit)
 
 Field activities carried out on 22 April 2026, fittingly on Earth Day, were completed successfully and marked the transition from planning to operational monitoring.
 During the campaign, the project team installed a new Automatic Weather Station (AWS), providing continuous meteorological observations essential for recharge assessment and hydrological interpretation. In parallel, real-time monitoring equipment was installed at the BO6 piezometer, enabling continuous observation of groundwater dynamics within the freshwater lens system.
